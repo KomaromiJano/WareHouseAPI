@@ -30,7 +30,7 @@ Ez a projekt egy Laravel 11 alapú raktárkezelő alkalmazás API-ját tartalmaz
 
 1. Klónozza le a repót:
 ```
-git clone https://github.com/yourusername/warehouse-management.git
+git clone https://github.com/KomaromiJano/WareHouseAPI.git
 ```
 
 2. Lépjen be a projekt könyvtárába:
